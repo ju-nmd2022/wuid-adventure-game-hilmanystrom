@@ -37,6 +37,7 @@ span{
 #gateTextInfo{
     position: absolute;
     font-size: 0.9cm;
+    right: 300px;
     background-color: rgb(00, 51, 153);
     display: flex;
     justify-content: center;
@@ -71,8 +72,8 @@ aside{
     position: absolute;
     width: 20px;
     height: 40px;
-    top: 295px;
-    right: 24px;
+    top: 395px;
+    right: 64px;
 }
 
 p{
